@@ -19,3 +19,8 @@ var button = document.querySelector('.s-card');
 button.addEventListener('click', function() {
     …
 });
+
+var button = document.querySelector('.s-card');
+button.addEventListener('click', function() {
+    …
+});
