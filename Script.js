@@ -14,3 +14,8 @@ Stacks.addController("greeter", {
         return this.nameTarget.value;
     }
 });
+
+var button = document.querySelector('.s-card');
+button.addEventListener('click', function() {
+    …
+});
